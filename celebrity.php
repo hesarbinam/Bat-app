@@ -1,10 +1,10 @@
 {
-  "celebrity": [
+  "vpn": [
     {
       "id": "1",
       "name": "سجاد تیکه به درخت",
-      "email": "hesarbinam@gmail.com",
-      "image": "http://s16.picofile.com/file/8411549392/IMG_20201021_003712.jpg"
+      "age": "hesarbinam@gmail.com",
+      "gender": "http://s16.picofile.com/file/8411549392/IMG_20201021_003712.jpg"
     },
     {
       "id": "1",
